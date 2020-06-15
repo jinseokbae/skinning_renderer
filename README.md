@@ -1,5 +1,5 @@
 # skinning_renderer
-This is OpenGL renderer for researchers who are designing neural nets to infer skin weights of given 3D model.
+This is OpenGL(3.3) renderer for researchers who are designing neural nets to infer skin weights of given 3D model.
 
 ## Installation
 Libraries below should be installed before running.
