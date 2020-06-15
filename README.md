@@ -14,4 +14,4 @@ If you want to your other collada files, edit main.cpp.
 
 ## Demo Video
 I used model and animation from Mixamo.com
-[![Demo CountPages alpha](https://github.com/jinseokbae/skinning_renderer/blob/master/demo_mouse.gif)]
+![Demo CountPages alpha](https://github.com/jinseokbae/skinning_renderer/blob/master/demo_mouse.gif)
