@@ -13,3 +13,4 @@ I tested with Ubuntu 18.04 with inputs of collada files (both of Ground Truth an
 If you want to your other collada files, edit main.cpp.
 
 ## Screenshots
+[![Demo CountPages alpha](https://github.com/jinseokbae/skinning_renderer/blob/master/demo_mouse.gif)]
