@@ -20,7 +20,7 @@ Description:
   1. "GT model" and "OURS model" &#8594; just visualizing two models
   2. "GT weights" and "OURS weights" &#8594; visualizing each vertex with bones that are influencing to it. (each bone is assigned to different color. You can check out given colors in main.cpp file)
   3. "Deformation Error" &#8594; this is eulcidean distance between same vertices of GT & OURS model. I used this notation from the paper named "Neuroskinning: Automatic skin binding for production characters with deep graph networks."
-![Demo CountPages alpha](https://github.com/jinseokbae/skinning_renderer/blob/master/demo_mouse.gif)
+![Demo Video](https://github.com/jinseokbae/skinning_renderer/blob/master/demo_mouse.gif)
 
 ## Reference
   1. fractions of sample codes from LearnOpenGL(https://learnopengl.com/)
