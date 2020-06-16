@@ -23,6 +23,8 @@ Description:
 ![Demo CountPages alpha](https://github.com/jinseokbae/skinning_renderer/blob/master/demo_mouse.gif)
 
 ## Reference
-  1. LearnOpenGL 
-  2. Blog of "http://ogldev.atspace.co.uk/www/tutorial38/tutorial38.html"
-  3. Liu, Lijuan, et al. "Neuroskinning: Automatic skin binding for production characters with deep graph networks." ACM Transactions on Graphics (TOG) 38.4 (2019): 1-12.
+  1. fractions of sample codes from LearnOpenGL(https://learnopengl.com/)
+  2. basics of skeletal animation from blog "http://ogldev.atspace.co.uk/www/tutorial38/tutorial38.html"
+
+## Citation
+  1. Notation of deformation error from Liu, Lijuan, et al. "Neuroskinning: Automatic skin binding for    production characters with deep graph networks." ACM Transactions on Graphics (TOG) 38.4 (2019): 1-12.
