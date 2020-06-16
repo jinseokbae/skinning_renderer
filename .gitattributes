@@ -1,0 +1,4 @@
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+*.dae linguist-language=C++
+*.gif linguist-language=C++
